@@ -1,5 +1,21 @@
 
+![KeystoneJS](http://keystonejs.com/images/logo.svg)
+===================================
+
 Multiple select for keystone. Based on [KeystoneJS](http://keystonejs.com) 
+
+##Usage
+
+```
+List.add({
+	...
+	value: { type: Types.Select, options: countriesList.getNames(), multi: true },
+	...
+});
+
+```
+
+By adding "multi" option to Types.Select you enable multiply select.
 
 
 ## License
