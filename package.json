@@ -52,7 +52,7 @@
     "underscore": "global:_"
   },
   "bugs": {
-    "url": "https://github.com/keystonejs/keystone/issues"
+    "url": "https://github.com/grischenko-v/keystone-with-multi-select/issues"
   },
   "dependencies": {
     "async": "^1.5.2",
@@ -145,7 +145,7 @@
     "node": ">= 0.10.28",
     "npm": ">= 1.4.9"
   },
-  "homepage": "http://keystonejs.com/",
+  "homepage": "https://github.com/grischenko-v/keystone-with-multi-select/issues",
   "keywords": [
     "express",
     "web",
@@ -169,7 +169,7 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keystonejs/keystone.git"
+    "url": "git+https://github.com/grischenko-v/keystone-with-multi-select/keystone-with-multi-select.git"
   },
   "scripts": {
     "build": "NODE_ENV=production gulp build-packages",
