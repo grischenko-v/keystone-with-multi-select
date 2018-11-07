@@ -145,7 +145,7 @@
     "node": ">= 0.10.28",
     "npm": ">= 1.4.9"
   },
-  "homepage": "https://github.com/grischenko-v/keystone-with-multi-select/issues",
+  "homepage": "https://github.com/grischenko-v/keystone-with-multi-select",
   "keywords": [
     "express",
     "web",
@@ -169,7 +169,7 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grischenko-v/keystone-with-multi-select/keystone-with-multi-select.git"
+    "url": "https://github.com/grischenko-v/keystone-with-multi-select/"
   },
   "scripts": {
     "build": "NODE_ENV=production gulp build-packages",
@@ -182,5 +182,5 @@
     "test": "mocha",
     "test-cov": "istanbul cover ./node_modules/mocha/bin/_mocha"
   },
-  "version": "0.3.21"
+  "version": "0.3.23"
 }
